@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\Cooll\source\repos\Project2\Project2\main.c(45,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Cooll\source\repos\Project2\Project2\main.c(165,17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  C:\Users\Cooll\source\repos\Project2\Project2\main.c(165,17):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+  C:\Users\Cooll\source\repos\Project2\Project2\main.c(165,17):
+  отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
+  C:\Users\Cooll\source\repos\Project2\Project2\main.c(165,17):
+  этот аргумент используется в качестве размера буфера
+  
+C:\Users\Cooll\source\repos\Project2\Project2\main.c(195,15): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
